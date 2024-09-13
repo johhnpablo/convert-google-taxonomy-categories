@@ -1,0 +1,13 @@
+{
+    "name": "johhnpablo/convert_taxonomy_google",
+    "description": "Convert Google Taxonomy Categories to array associative PHP",
+    "authors": [
+        {
+            "name": "John Pablo",
+            "email": "johnpablo.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.3"
+    }
+}
